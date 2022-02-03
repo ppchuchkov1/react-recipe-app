@@ -1,0 +1,17 @@
+.navigation-links{
+    color: #fff;
+    text-decoration: none;
+}
+
+.navigation-links:hover{
+    color: #ccc;
+   
+}
+
+.navigation-active{
+    color: red;
+    text-decoration: none;
+}
+.navigation-active:hover{
+    color: #ccc;
+}

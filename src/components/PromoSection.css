@@ -1,0 +1,30 @@
+.promo-section{
+
+   background-color: #FCAD37;
+}
+
+.promo-heading{
+  color: #fff;
+    font-family: 'Bakbak One', cursive;
+    font-size: 3rem;
+    line-height: 1;
+    text-transform: uppercase;
+
+}
+@media only screen and (max-width: 600px) {
+  .promo-heading{
+  text-align: center;
+  }
+
+}
+@media only screen and (max-width: 600px) {
+    .promo-video{
+        width: 300px;
+    }
+  
+  }
+
+  .promo-btn{
+    background-color: #00A082 !important;
+    border-color: #00A082 !important;
+  }

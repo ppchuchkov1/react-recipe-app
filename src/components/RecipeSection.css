@@ -1,0 +1,21 @@
+.recipe-card{
+    width: 22rem;
+}
+
+@media only screen and (max-width: 600px) {
+    .recipe-card{
+        width: 100%;
+    }
+  
+  }
+  @media (min-width: 768px) and (max-width: 1024px) {
+  
+    .recipe-card{
+        width: 100%;
+    }
+  
+  }
+  .recipe-btn{
+    background-color: #00A082 !important;
+    border-color: #00A082 !important;
+  }

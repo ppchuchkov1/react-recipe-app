@@ -1,0 +1,32 @@
+.single-heading{
+    color: #000;
+
+    font-size: 3rem;
+    line-height: 1;
+    text-transform: uppercase;
+
+}
+.heading-section{
+background-color: #FAAB34;
+}
+.desciption-icon{
+    font-size:1.8rem;
+    color: #00A082;
+}
+.desciption-p{
+    color: #000;
+
+    font-size: 1.3rem;
+    line-height: 1;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.single-image{
+    width: 500px;
+}
+
+@media only screen and (max-width: 600px) {
+    .single-image{
+        width: 100%;
+    }
+  }

@@ -1,0 +1,40 @@
+.hero{
+   
+    height: 600px;
+    background: url('../assets/bg3-min.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-attachment: fixed;
+ 
+
+}
+
+.hero-heading{
+    color: #fff;
+    font-family: 'Bakbak One', cursive;
+    font-size: 5rem;
+    line-height: 1;
+    text-transform: uppercase;
+
+}
+.hero-link-btn{
+   color: #fff;
+   text-decoration: none;
+
+}
+.hero-link-btn:hover{
+    color: #ccc;
+   
+}
+
+.hero-p{
+    font-size: 25px;
+}
+
+.hero-btn{
+    background-color: #00A082 !important;
+    border:none !important;
+    
+  
+}
